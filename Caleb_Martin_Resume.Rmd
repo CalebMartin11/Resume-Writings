@@ -23,7 +23,7 @@ header-includes:
 \begin{center}
 {\Large\textbf{CALEB T. MARTIN}}\\[-1pt]
 Richmond VA \& Columbia SC \;|\; US Mobile: +1 (804) 638-8510\\[-1pt]
-calebthomasmn@gmail.com \;|\; www.linkedin.com/in/caleb-martin12
+calebthomasmn@gmail.com
 \end{center}
 
 \vspace{-4pt}
