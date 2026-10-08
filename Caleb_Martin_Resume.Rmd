@@ -43,16 +43,18 @@ calebthomasmn@gmail.com
 \textbf{Charlotte Transit Expansion Project} \hfill October 2025 – Present
 
 \begin{itemize}
-\item Built a 1990–2020 census-tract panel in R, linking Census housing and demographic measures with proximity to Charlotte light rail line stations.
-\item Assess transit expansion’s effects on housing supply, housing elasticity, and demographics using distance-based regressions.
+\item Using Census data, built a 1990–2020 tract panel in R, linking housing and demographic data with distance measures to Charlotte light rail line stations.
+\item Examine changes in housing supply and neighborhood demographics near Charlotte's Lynx Blue Line using tract panel data.
+\item Tested the sensitivity of results using log-distance specifications, controls for distance to Uptown, and exclusion of downtown tracts.
 \end{itemize}
 
 \textbf{UNIVERSITY OF SOUTH CAROLINA, ECONOMICS DEPARTMENT} \hfill Columbia, SC\
 \textbf{Research Assistant} \hfill April - October 2025
 
 \begin{itemize}
-\item Identify and clean trade data to support faculty-led research initiatives.
-\item Convert LaTeX documentation into an accessible format to facilitate Census record access.
+\item Harmonized international trade, price index (PPI/CPI), and macro series across different databases into a unified panel format.
+\item Implemented crosswalk to integrate legacy trade observations with CEPII Gravity datasets.
+\item Converted technical LaTeX documentation into Word for official Census agency submission.
 \end{itemize}
 
 \textbf{ECONOMETRICS RESEARCH PROJECT} \hfill Columbia, SC\
