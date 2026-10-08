@@ -39,7 +39,7 @@ calebthomasmn@gmail.com
 
 # RESEARCH EXPERIENCE
 
-\textbf{Honors College Undergraduate Thesis} \hfill Columbia, SC\
+\textbf{Undergraduate Honors Thesis} \hfill Columbia, SC\
 \textbf{Charlotte Transit Expansion Project} \hfill October 2025 - Present
 
 \begin{itemize}
@@ -61,8 +61,8 @@ calebthomasmn@gmail.com
 \textbf{Short Term Rental Restrictions and Housing Affordability} \hfill October 2025
 
 \begin{itemize}
-\item Constructed treatment and comparison groups for a difference-in-differences analysis of short-term rental restrictions, examining pre-treatment rental price trends.
-\item Estimated associations between short-term rental restrictions and rental prices, assessing limitations from overlapping COVID-19 disruptions.
+\item Constructed treatment and comparison groups for a difference-in-differences analysis of short term rental restrictions, examining rental price trends.
+\item Estimated associations between short term rental restrictions and rental prices, assessing limitations from overlapping COVID-19 disruptions and other exogenous variables.
 \end{itemize}
 
 # ADDITIONAL EXPERIENCE
