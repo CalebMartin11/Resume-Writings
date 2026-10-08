@@ -1,0 +1,93 @@
+---
+title: ""
+author: ""
+date: ""
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+fontsize: 10pt
+geometry: margin=0.50in
+header-includes:
+  - \usepackage{enumitem}
+  - \usepackage{titlesec}
+  - \usepackage{setspace}
+  - \pagenumbering{gobble}
+  - \setlength{\parindent}{0pt}
+  - \setlength{\parskip}{1.5pt}
+  - \setlist[itemize]{leftmargin=13pt, nosep, topsep=2pt, itemsep=1pt}
+  - \titlespacing*{\section}{0pt}{8pt}{5pt}
+  - \titleformat{\section}{\large\bfseries\scshape}{}{0pt}{}[\vspace{-2pt}\titlerule]
+---
+
+\begin{center}
+{\Large\textbf{CALEB THOMAS MARTIN}}\\[-1pt]
+Richmond VA \& Columbia SC \;|\; US Mobile: +1 (804) 638-8510\\[-1pt]
+calebthomasmn@gmail.com \;|\; www.linkedin.com/in/caleb-martin12
+\end{center}
+
+\vspace{-4pt}
+
+# EDUCATION
+
+\textbf{DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina} \hfill Columbia, SC\
+\textbf{Bachelor of Science, Business Administration. GPA: 3.94} \hfill May 2027\
+\textbf{Majors:} Economics, International Business\
+\textbf{Minors:} Francophone Studies, Mathematics\
+\textbf{Relevant Coursework:} Econometrics, Intermediate Macroeconomics, Intermediate Microeconomics, Linear Algebra, Vector Calculus, Discrete Mathematics\
+\textbf{Study Abroad:} Université Laval - Québec City, Canada (Summer 2025; French); ICHEC Brussels Management School - Brussels, Belgium (Spring 2026; International Business)
+
+# RESEARCH EXPERIENCE
+
+\textbf{HONORS COLLEGE UNDERGRADUATE THESIS} \hfill Columbia, SC\
+\textbf{Charlotte Transit Expansion Project} \hfill October 2025 – Present
+
+\begin{itemize}
+\item Built a 1990–2020 census-tract panel in R, linking Census housing and demographic measures with proximity to Charlotte light rail line stations.
+\item Assess transit expansion’s effects on housing supply, housing elasticity, and demographics using distance-based regressions.
+\end{itemize}
+
+\textbf{UNIVERSITY OF SOUTH CAROLINA, ECONOMICS DEPARTMENT} \hfill Columbia, SC\
+\textbf{Research Assistant} \hfill April - October 2025
+
+\begin{itemize}
+\item Identify and clean trade data to support faculty-led research initiatives.
+\item Convert LaTeX documentation into an accessible format to facilitate Census record access.
+\end{itemize}
+
+\textbf{ECONOMETRICS RESEARCH PROJECT} \hfill Columbia, SC\
+\textbf{Short Term Rental Restrictions and Housing Affordability} \hfill October 2025
+
+\begin{itemize}
+\item Defined treatment timing and comparison groups, prepared regression ready panel data, and assessed findings using a parallel-trends framework.
+\item Conducted a difference-in-difference analysis for correlations between short-term rental restrictions and rental prices across Pacific Northwest cities
+\end{itemize}
+
+# ADDITIONAL EXPERIENCE
+
+\textbf{VIRGINIA ECONOMIC DEVELOPMENT PARTNERSHIP} \hfill Richmond, VA\
+\textbf{International Trade Intern} \hfill June 2024 - August 2024
+
+\begin{itemize}
+\item Developed a revenue forecasting ranking system for a client to guide market entry and expansion.
+\item Organized STEP reimbursement data for 200+ small businesses.
+\item Authored executive summaries of international market reports to inform Virginia businesses.
+\end{itemize}
+
+\textbf{AUGUSTA NATIONAL GOLF CLUB} \hfill Augusta, GA\
+\textbf{Masters Tech Sales Attendant - Main Golf Shop} \hfill April 2024 & 2025
+
+\begin{itemize}
+\item Facilitated merchandise orders for thousands of patrons, and managed continuous inventory restocking across multiple roles, to support over \$10 million in daily revenue.
+\end{itemize}
+
+\textbf{CENTRAL VIRGINIA SOCCER REFEREE ASSOCIATION} \hfill Columbia, SC & Richmond, VA\
+\textbf{Soccer Referee \& Mentor} \hfill September 2018 - November 2025
+
+\begin{itemize}
+\item Officiated various levels of (youth-adult) soccer matches and trained new youth referees in match management, rule application, and center-referee responsibilities.
+\end{itemize}
+
+\textbf{Languages:} English, French (intermediate)\
+\textbf{Technical Skills:} R (data cleaning, regression, visualization, spatial analysis, difference-in-differences); Excel; LaTeX (basic)\
+\textbf{Research Interests:} Urban Economics, International trade, Macroeconomics
