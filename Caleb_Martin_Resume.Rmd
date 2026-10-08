@@ -62,7 +62,7 @@ calebthomasmn@gmail.com
 
 \begin{itemize}
 \item Constructed treatment and comparison groups for a difference-in-differences analysis of short term rental restrictions, examining rental price trends.
-\item Estimated associations between short term rental restrictions and rental prices, assessing limitations from overlapping COVID-19 disruptions and other exogenous variables.
+\item Estimated associations between short-term rental restrictions and rental prices, while considering limitations from COVID-19 disruptions.
 \end{itemize}
 
 # ADDITIONAL EXPERIENCE
