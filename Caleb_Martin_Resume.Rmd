@@ -30,7 +30,7 @@ calebthomasmn@gmail.com
 
 # EDUCATION
 
-\textbf{DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina} \hfill Columbia, SC\
+\textbf{Darla Moore School of Business, University of South Carolina} \hfill Columbia, SC\
 \textbf{Bachelor of Science, Business Administration. GPA: 3.94} \hfill May 2027\
 \textbf{Majors:} Economics, International Business\
 \textbf{Minors:} Francophone Studies, Mathematics\
@@ -39,7 +39,7 @@ calebthomasmn@gmail.com
 
 # RESEARCH EXPERIENCE
 
-\textbf{HONORS COLLEGE UNDERGRADUATE THESIS} \hfill Columbia, SC\
+\textbf{Honors College Undergraduate Thesis} \hfill Columbia, SC\
 \textbf{Charlotte Transit Expansion Project} \hfill October 2025 – Present
 
 \begin{itemize}
@@ -48,7 +48,7 @@ calebthomasmn@gmail.com
 \item Tested the sensitivity of results using log-distance specifications, controls for distance to Uptown, and exclusion of downtown tracts.
 \end{itemize}
 
-\textbf{UNIVERSITY OF SOUTH CAROLINA, ECONOMICS DEPARTMENT} \hfill Columbia, SC\
+\textbf{University of South Carolina, Economics Department} \hfill Columbia, SC\
 \textbf{Research Assistant} \hfill April - October 2025
 
 \begin{itemize}
@@ -57,39 +57,39 @@ calebthomasmn@gmail.com
 \item Converted technical LaTeX documentation into Word for official Census agency submission.
 \end{itemize}
 
-\textbf{ECONOMETRICS RESEARCH PROJECT} \hfill Columbia, SC\
+\textbf{Econometrics Research Project} \hfill Columbia, SC\
 \textbf{Short Term Rental Restrictions and Housing Affordability} \hfill October 2025
 
 \begin{itemize}
-\item Defined treatment timing and comparison groups, prepared regression ready panel data, and assessed findings using a parallel-trends framework.
-\item Conducted a difference-in-difference analysis for correlations between short-term rental restrictions and rental prices across Pacific Northwest cities
+\item Constructed treatment and comparison groups for a difference-in-differences analysis of short-term rental restrictions, examining pre-treatment rental price trends.
+\item Estimated associations between short-term rental restrictions and rental prices, assessing limitations from overlapping COVID-19 disruptions.
 \end{itemize}
 
 # ADDITIONAL EXPERIENCE
 
-\textbf{VIRGINIA ECONOMIC DEVELOPMENT PARTNERSHIP} \hfill Richmond, VA\
+\textbf{Virginia Economic Development Partnership} \hfill Richmond, VA\
 \textbf{International Trade Intern} \hfill June 2024 - August 2024
 
 \begin{itemize}
-\item Developed a revenue forecasting ranking system for a client to guide market entry and expansion.
-\item Organized STEP reimbursement data for 200+ small businesses.
-\item Authored executive summaries of international market reports to inform Virginia businesses.
+\item Built a revenue based market ranking model for a client considering market entry and expansion. 
+\item Organized STEP reimbursement data for more than 200 Virginia small businesses.
+\item Summarized international market research in executive briefs for Virginia small businesses.
 \end{itemize}
 
-\textbf{AUGUSTA NATIONAL GOLF CLUB} \hfill Augusta, GA\
-\textbf{Masters Tech Sales Attendant - Main Golf Shop} \hfill April 2024 & 2025
+\textbf{Augusta National Golf Club} \hfill Augusta, GA\
+\textbf{Masters Tech Sales Attendant, Main Golf Shop} \hfill April 2024 & 2025
 
 \begin{itemize}
-\item Facilitated merchandise orders for thousands of patrons, and managed continuous inventory restocking across multiple roles, to support over \$10 million in daily revenue.
+\item Processed merchandise orders for thousands of patrons and restocked inventory throughout high-volume tournament days.
 \end{itemize}
 
-\textbf{CENTRAL VIRGINIA SOCCER REFEREE ASSOCIATION} \hfill Columbia, SC & Richmond, VA\
-\textbf{Soccer Referee \& Mentor} \hfill September 2018 - November 2025
+\textbf{Independent Soccer Referee} \hfill Columbia, SC & Richmond, VA\
+\textbf{Soccer Referee \& Mentor; primarily assigned through CVSRA} \hfill September 2018 - November 2025
 
 \begin{itemize}
-\item Officiated various levels of (youth-adult) soccer matches and trained new youth referees in match management, rule application, and center-referee responsibilities.
+\item Officiated youth and adult soccer matches and mentored new referees in rule application, match management, and center-referee responsibilities.
 \end{itemize}
 
 \textbf{Languages:} English, French (intermediate)\
 \textbf{Technical Skills:} R (data cleaning, regression, visualization, spatial analysis, difference-in-differences); Excel; LaTeX (basic)\
-\textbf{Research Interests:} Urban Economics, International trade, Macroeconomics
+\textbf{Research Interests:} Urban Economics, international trade, macroeconomics
