@@ -40,7 +40,7 @@ calebthomasmn@gmail.com
 # RESEARCH EXPERIENCE
 
 \textbf{Honors College Undergraduate Thesis} \hfill Columbia, SC\
-\textbf{Charlotte Transit Expansion Project} \hfill October 2025 – Present
+\textbf{Charlotte Transit Expansion Project} \hfill October 2025 - Present
 
 \begin{itemize}
 \item Using Census data, built a 1990–2020 tract panel in R, linking housing and demographic data with distance measures to Charlotte light rail line stations.
